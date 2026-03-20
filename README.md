@@ -112,7 +112,9 @@ I'm open for collaboration on:
 ## 🐾 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricSakala&bg_color=0d1117&color=00b3ff&line=00b4ff&point=07e6ff&area=true&hide_border=true" alt="Contribution Graph" />
+ <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crux98-eng&bg_color=0d1117&color=00b3ff&line=00b4ff&point=07e6ff&area=true&hide_border=true" />
+</div>alt="Contribution Graph" />
 </div>
 
 ---
