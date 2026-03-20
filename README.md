@@ -28,7 +28,7 @@ Experienced in full-stack development, API integration, and database design with
 Passionate about solving real-world problems through IoT, AI, and user-focused solutions.
 
 ```python
-class SilasChalwe:
+class EricSakala:
     def __init__(self):
         self.role = "Computer Engineer | Web developer | graphic designer"
         self.current_work = ["fun music mobile app ", "Hardware and automation"]
