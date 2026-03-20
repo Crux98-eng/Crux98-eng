@@ -33,6 +33,9 @@ class EricSakala:
 
     def say_hi(self):
         return "Let's build something impactful 🚀"
+```
+
+---
 
 ## 🤝 Collaborate with Me
 
